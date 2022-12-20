@@ -27,3 +27,7 @@
   <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
+
+#### 🧷Company
+- KAC (Freelancer) / 2023.01 ~ 
+- INNOTIVE INC / 2019.09 ~ 2023.01
