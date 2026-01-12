@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 
-#### 🧷Company
-- KAC (Freelancer) / 2023.01 ~ 
-- INNOTIVE INC / 2019.09 ~ 2023.01
+## 🧷 Projects
+
+| DATE | PROJECT | STACK | ETC |
+|---|---|---|---|
+| <code>2025.01&nbsp;~&nbsp;ING</code> | **SINGLEX HR - LG CNS** | JAVA, Devon NCD<br>Mysql, SAP SuccessFactors | SM<br>(LG, LX) |
+| <code>2024.07&nbsp;~&nbsp;2025.01</code> | **SINGLEX HR - LG CNS** | JAVA, Devon NCD<br>Mysql, SAP SuccessFactors | SI<br>(LG Electronics & LG Magna e-Powertrain) |
+| <code>2024.03&nbsp;~&nbsp;2024.07</code> | **MND** | Confidential | Confidential |
+| <code>2023.01&nbsp;~&nbsp;2024.01</code> | **KAC** | JAVA, WebSquare<br>Tibero | SM<br>(HR, e-MAS, LMS) |
+| <code>2019.09&nbsp;~&nbsp;2023.01</code> | **INNOTIVE INC** | PHP, Laravel<br>Maria DB, Java (Android) | Company<br>&nbsp; |
+
