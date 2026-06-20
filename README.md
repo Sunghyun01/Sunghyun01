@@ -43,6 +43,7 @@
   <br/>
   <p>
     <img src="https://img.shields.io/badge/SAP%20SuccessFactors-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
   </p>
 </details>
 
@@ -73,9 +74,17 @@
 
 | DATE | PROJECT | STACK | ETC |
 |---|---|---|---|
-| <code>2025.01&nbsp;~&nbsp;ING</code> | **SINGLEX HR - LG CNS** | JAVA, Devon NCD<br>Mysql, SAP SuccessFactors | SM<br>(LG, LX) |
+| <code>2025.01&nbsp;~&nbsp;2026.06</code> | **SINGLEX HR - LG CNS** | JAVA, Devon NCD<br>Mysql, SAP SuccessFactors | SM<br>(LG, LX) |
 | <code>2024.07&nbsp;~&nbsp;2025.01</code> | **SINGLEX HR - LG CNS** | JAVA, Devon NCD<br>Mysql, SAP SuccessFactors | SI<br>(LG Electronics & LG Magna e-Powertrain) |
 | <code>2024.03&nbsp;~&nbsp;2024.07</code> | **MND** | Confidential | Confidential |
 | <code>2023.01&nbsp;~&nbsp;2024.01</code> | **KAC** | JAVA, WebSquare<br>Tibero | SM<br>(HR, e-MAS, LMS) |
 | <code>2018.07&nbsp;~&nbsp;2023.01</code> | **INNOTIVE INC** | PHP, Laravel<br>Maria DB, Java (Android) | Company<br>&nbsp; |
+
+## 🧷 Certification
+
+| Date of Issue | Certification | Issuing Organization |
+| :--- | :--- | :--- |
+| 2026.05 | SAP Backend Developer - ABAP Cloud | SAP |
+| 2019.08 | 정보처리산업기사 | 한국산업인력공단 |
+| 2017.10 | 웹디자인기능사 | 한국산업인력공단 |
 
